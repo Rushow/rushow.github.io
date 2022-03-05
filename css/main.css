@@ -1119,7 +1119,7 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	/* background: url("../images/logo.png") no-repeat center; */
+	background: url("../images/logo.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -2183,7 +2183,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #stats {
-	background: #4755F5;
+	background: #fff;
 	padding-top: 7.2rem;
 	padding-bottom: 6rem;
 	text-align: center;
@@ -2203,15 +2203,14 @@ header .logo a {
 	color: #000000;
 }
 #stats .stat-count {
-	color: #FFFFFF;
+	color: #000;
 	font-size: 3.6rem;
 	margin-top: 1.2rem;
 	margin-bottom: 0;
 	font-family: "poppins-medium", sans-serif;
-	color: white;
 }
 #stats .stat-title {
-	color: rgba(255, 255, 255, 0.5);
+	color: #000;
 }
 
 /**
